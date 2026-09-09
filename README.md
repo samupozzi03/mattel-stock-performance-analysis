@@ -17,14 +17,6 @@ Through an empirical econometrics framework using a **Multiple Linear Regression
 
 ---
 
-## Repository Structure
-```text
-├── Mattel_Financial_Data_Analysis.xlsx   # Complete dataset, OLS regression, ANOVA & charts
-├── Mattel_Stock_Performance_Report.pdf   # Comprehensive research paper & detailed findings
-└── README.md                             # Project overview and summary
-
----
-
 **## Tools & Data Sources**  
 * **Financial Platform**: LSEG Workspace (Refinitiv / Thomson Reuters)
 * **Corporate Statements**: Mattel Inc. & Hasbro Inc. Investor Relations (10-Q Unaudited Statements)
