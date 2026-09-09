@@ -17,7 +17,7 @@ Through an empirical econometrics framework using a **Multiple Linear Regression
 
 ---
 
-**## Tools & Data Sources**  
+## Tools & Data Sources
 * **Financial Platform**: LSEG Workspace (Refinitiv / Thomson Reuters)
 * **Corporate Statements**: Mattel Inc. & Hasbro Inc. Investor Relations (10-Q Unaudited Statements)
 * **Market Trends**: Google Trends API (Global Search Volume)
